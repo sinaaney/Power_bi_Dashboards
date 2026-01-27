@@ -24,3 +24,41 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * ➡️ Drill-Through Functionality
 
 [➡️ **View Full Project 1 Details (README)**](/Data_jobs/README.md)
+
+## 📊 Data Jobs Dashboard V2 
+
+![Dashboard ](/Data_jobs_2/images/project_2.png)
+
+**Key Power BI Skills Utlized** 
+
+* **🎨 Dashboard Design:**
+Designed an intuitive, visually clean layout focused on clarity, usability, and storytelling.
+
+* **⚙️ Power Query (ETL):**
+Cleaned, transformed, and shaped raw data to ensure accuracy and analysis-ready datasets.
+
+* **🔗 Data Modeling:**
+Built efficient data models using proper relationships and Star Schema principles.
+
+* **🧮 DAX Fundamentals:**
+Created measures and calculated fields to derive meaningful business insights.
+
+* **📊 Visualizations Used:**
+
+    * **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trend analysis
+
+    * **🗺️ Map Charts:** To visualize location-based insights
+
+    * **🔢 KPI Cards:** To highlight key metrics at a glance
+
+    * **📋 Tables:** For detailed, structured data exploration
+
+    * **🎨 Chart Selection:** Used both common and less-common visuals where they best supported the story
+
+* **🖱️ Interactivity & Navigation**
+
+* **🎚️ Slicers:** Enabled dynamic, user-driven filtering
+
+* **🔘 Buttons & Bookmarks:** Created smooth navigation, drill-through actions, and multiple report views
+
+[➡️ **View Full Project 1 Details (README)**](/Data_jobs_2/README.md)
