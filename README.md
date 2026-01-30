@@ -61,7 +61,7 @@ Created measures and calculated fields to derive meaningful business insights.
 
 * **🔘 Buttons & Bookmarks:** Created smooth navigation, drill-through actions, and multiple report views
 
-[➡️ **View Full Project 1 Details (README)**](/Data_jobs_2/README.md)
+[➡️ **View Full Project 2 Details (README)**](/Data_jobs_2/README.md)
 
 ## 📦 Supply Chain & Logistics Dashboard
 
@@ -81,7 +81,7 @@ Created measures and calculated fields to derive meaningful business insights.
 
 * 🖱️ Interactive Slicers & Filters
 
-[➡️ **View Full Project 1 Details (README)**](/Supply_Chain_&_Logistics_Dashboard/README.md)
+[➡️ **View Full Project 3 Details (README)**](/Supply_Chain_&_Logistics_Dashboard/README.md)
 
 ## About this portfolio
 
