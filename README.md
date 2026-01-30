@@ -82,3 +82,7 @@ Created measures and calculated fields to derive meaningful business insights.
 * 🖱️ Interactive Slicers & Filters
 
 [➡️ **View Full Project 1 Details (README)**](/Supply_Chain_&_Logistics_Dashboard/README.md)
+
+## About this portfolio
+
+Each dashboard linked above has its own detailed README.ms file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
