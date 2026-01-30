@@ -62,3 +62,23 @@ Created measures and calculated fields to derive meaningful business insights.
 * **🔘 Buttons & Bookmarks:** Created smooth navigation, drill-through actions, and multiple report views
 
 [➡️ **View Full Project 1 Details (README)**](/Data_jobs_2/README.md)
+
+## 📦 Supply Chain & Logistics Dashboard
+
+![Dashboard ](/Supply_Chain_&_Logistics_Dashboard/images/project_image_1.png)
+
+**Key Power BI Skills Utlized** 
+
+* 🎨 Dashboard Layout & Business-Oriented Design
+
+* 🔄 Power Query (ETL & Data Transformation)
+
+* 🧱 Data Modeling (Fact & Dimension Tables, Star Schema)
+
+* 🧮 DAX Measures for revenue, profit, margin, inventory, and shipment metrics
+
+* 📊 Core Visuals: KPI Cards, Bar Charts, Column Charts, Donut Charts, Tables
+
+* 🖱️ Interactive Slicers & Filters
+
+[➡️ **View Full Project 1 Details (README)**](/Supply_Chain_&_Logistics_Dashboard/README.md)
